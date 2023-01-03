@@ -26,3 +26,5 @@ def create_certification():
         }
         template.render(context)
         template.save(f".{output}/{name}.docx")
+
+create_certification()
