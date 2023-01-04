@@ -18,6 +18,9 @@ You can automate a hundred list of certfication in 30 lines of code with Python
     ```shell
     $ python main.py
     ```
+### See the video
+Youtube: https://youtu.be/xKxyIQfKOSc
+
 
 ### Screenshots
 ![alt text](https://github.com/Nor-Mand/automate_certification/blob/main/images/template.png)
